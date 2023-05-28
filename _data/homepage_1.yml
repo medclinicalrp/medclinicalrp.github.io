@@ -12,19 +12,22 @@ hero_area:
 
 ########################### Service ##############################
 services:
-- title : "Estética"
+- title : "Materiais Odontológicos"
   icon : 
-  content : "Produtos para a sua clínica de estética e salão de beleza, de esterilização a equipamentos para procedimentos"
+  content : "Tudo para o seu consultório, desde produtos de dentística, endodontia, ortodontia e paramentação cirúrgica"
+  
+- title : "Materiais Médico-hospitalares"
+  icon : 
+  content : "Produtos para a sua clínica de estética e salão de beleza, de esterilização a equipamentos para procedimentos"  
+  
+- title : "Beleza e Estética"
+  icon : 
+  content : "Produtos para a sua clínica de estética e salão de beleza, de esterilização a equipamentos para procedimentos"  
 
 - title : "Descartáveis e Limpeza"
   icon : 
-  content : "Produtos médicos descartáveis, grande variedade de produtos para higienização, manutenção do espaço e biossegurança. "
+  content : "Produtos médicos descartáveis, grande variedade de produtos para higienização, manutenção do espaço e biossegurança."
   
-- title : "Endodontia e Ortodontia"
-  icon : 
-  content : "Tudo para o seu consultório, desde produtos de dentística, endodontia, ortodontia e paramentação cirúrgica"
-
-
 ########################### Testimonial ###########################
 testimonial:
   enable : false
