@@ -12,17 +12,21 @@ hero_area:
 
 ########################### Service ##############################
 services:
-- title : "Brand Design"
-  icon : "ti-ruler-pencil"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+- title : "Estética"
+  icon : "fa-pencil"
+  content : "Produtos para a sua clínica de estética e salão de beleza, de esterilização a equipamentos para procedimentos"
 
-- title : "Seo & Marketing"
+- title : "Descartáveis"
   icon : "ti-announcement"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "Produtos médicos e descartáveis, como luvas, seringas, algodão e lençóis"
 
-- title : "Creative Design"
+- title : "Limpeza"
   icon : "ti-palette"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "Grande variedade de produtos para higienização e manutenção do seu espaço"
+  
+  - title : "Endodontia e Ortodontia"
+  icon : "ti-palette"
+  content : "Tudo para o seu consultório, desde produtos de dentística, endodontia, ortodontia e paramentação cirúrgica"
 
 
 ########################### Testimonial ###########################
