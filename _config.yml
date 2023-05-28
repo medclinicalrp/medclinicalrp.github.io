@@ -2,7 +2,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://medclinicalrp.github.io" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
 title: "medclinical | Cirúrgica e Dental"
 email: "medclinicalrp@gmail.com"
-phone: "+21 123 456 5523"
+phone: "(16) 99219 4044"
 address: "Av. do Café, 1388 - Vila Tibério, Ribeirão Preto - SP"
 author: themefisher
 description: >- # this means to ignore newlines
@@ -13,7 +13,7 @@ logo_icon: "/assets/images/logo-b.png"
 contact_form_action: "#" # works with https://fomrspree.io
 mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
 footer_content: "Lorem ipsum dolor amet consectetur adipielit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam."
-copyright: "dizer. &copy; 2020 All Right Reserved"
+copyright: "medclinical &copy; 2023 Todos os direitos reservados"
 # page header default image
 cover_image: "/assets/images/bg/about-bg.jpg"
 google_map_api: "https://maps.googleapis.com/maps/api/js?key=AIzaSyDnh74UN6BKgq9U5fMNGhdZOSpmM_QnZqs"
