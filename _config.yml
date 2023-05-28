@@ -1,12 +1,12 @@
-baseurl: "/dizer-jekyll" # the subpath of your site, e.g. /blog
-url: "https://demo.themefisher.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
-title: "Dizer -  Multipurpose Business & Corporate Jekyll Template"
-email: "themefisher@gmail.com"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://medclinicalrp.github.io" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
+title: "medclinical | Cirúrgica e Dental"
+email: "medclinicalrp@gmail.com"
 phone: "+21 123 456 5523"
-address: "9567 Turner Trace Apt. 466 North Willie, BC C3G8A4"
+address: "Av. do Café, 1388 - Vila Tibério, Ribeirão Preto - SP"
 author: themefisher
 description: >- # this means to ignore newlines
-  Dizer - Multipurpose Business & Corporate Jekyll Template Jekyll Theme For Mobile Apps Download Landing Page And Blogging.
+  Produtos médicos e odontológicos para o seu consultório, clínica de estática ou salão de beleza, com o melhor atendimento e entrega rápida
 logo: "/assets/images/logo.png"
 logo_icon: "/assets/images/logo-b.png"
 # contact form action
