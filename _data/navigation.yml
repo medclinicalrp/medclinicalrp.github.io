@@ -5,12 +5,6 @@ main:
     submenu:
       - name: Home
         url: /index.html
-      - name: Home 2
-        url: /index-2.html
-      - name: Home 3
-        url: /index-3.html
-      - name: Home 4
-        url: /index-4.html
   - name: About
     url: "#"
     submenu:
@@ -18,9 +12,7 @@ main:
         url: /about.html
       - name: About Me
         url: /about-me.html
-  - name: Blog
-    url: /blog-1.html
-  - name: Pages
+  - name: Produtos Médicos
     url: /
     submenu:
       - name: Services
@@ -31,6 +23,39 @@ main:
         url: /portfolio-2.html
       - name: 404
         url: /404
+  - name: Produtos Odontológicos
+    url: /
+    submenu:
+      - name: Services
+        url: /services.html
+      - name: Portfolio One
+        url: /portfolio-1.html
+      - name: Portfolio Two
+        url: /portfolio-2.html
+      - name: 404
+        url: /404 
+  - name: Beleza e Estética
+    url: /
+    submenu:
+      - name: Services
+        url: /services.html
+      - name: Portfolio One
+        url: /portfolio-1.html
+      - name: Portfolio Two
+        url: /portfolio-2.html
+      - name: 404
+        url: /404
+   - name: Limpeza e Descartáveis
+    url: /
+    submenu:
+      - name: Services
+        url: /services.html
+      - name: Portfolio One
+        url: /portfolio-1.html
+      - name: Portfolio Two
+        url: /portfolio-2.html
+      - name: 404
+        url: /404         
   - name: Contact
     url: /contact.html
 
