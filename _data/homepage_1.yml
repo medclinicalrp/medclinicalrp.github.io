@@ -4,7 +4,7 @@ hero_area:
   subtitle: "MEDCLINICAL"
   title : "Olá, somos a medclinical"
   content : "Produtos médicos e odontológicos com entrega rápida"
-  image : "/assets/images/banner/medclinical-quadrado.png"
+  image : ""
   button:
     enable : true
     label : "ENVIE SEU ORÇAMENTO"
@@ -13,15 +13,15 @@ hero_area:
 ########################### Service ##############################
 services:
 - title : "Estética"
-  icon : <i style='font-size:24px' class='fas'>&#xf5c9;</i>
+  icon : 
   content : "Produtos para a sua clínica de estética e salão de beleza, de esterilização a equipamentos para procedimentos"
 
 - title : "Descartáveis e Limpeza"
-  icon : "ti-announcement"
+  icon : 
   content : "Produtos médicos descartáveis, grande variedade de produtos para higienização, manutenção do espaço e biossegurança. "
   
 - title : "Endodontia e Ortodontia"
-  icon : "ti-palette"
+  icon : 
   content : "Tudo para o seu consultório, desde produtos de dentística, endodontia, ortodontia e paramentação cirúrgica"
 
 
