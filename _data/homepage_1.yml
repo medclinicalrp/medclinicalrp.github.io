@@ -1,9 +1,9 @@
 ######################### Hero Area ##############################
 hero_area:
   background_image : "/assets/images/banner/banner-2.png"
-  subtitle: "MEDCLINICAL"
-  title : "Olá, somos a medclinical"
-  content : "Produtos médicos e odontológicos com atendimento especial e entrega rápida"
+  subtitle: "DENTAL & CIRÚRGICA"
+  title : "Olá, somos a medclinical!"
+  content : "Produtos médicos e odontológicos com atendimento personalizado e entrega rápida"
   image : ""
   button:
     enable : true
@@ -27,7 +27,7 @@ services:
 
 ########################### Testimonial ###########################
 testimonial:
-  enable : true
+  enable : false
   title : "clients feedback"
   subtitle : "testimonials"
   bg_image : "/assets/images/bg/testimonial-bg.png"
@@ -50,7 +50,7 @@ testimonial:
 
 ######################## Fun facts ########################
 funfacts:
-  enable : true
+  enable : false
   bg_image : "/assets/images/bg/cta-bg.png"
   item:
   - name : "work completed"
