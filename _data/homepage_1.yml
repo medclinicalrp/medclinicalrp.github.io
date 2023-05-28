@@ -3,7 +3,7 @@ hero_area:
   background_image : "/assets/images/banner/banner-2.png"
   subtitle: "DENTAL & CIRÚRGICA"
   title : "Olá, somos a medclinical!"
-  content : "Produtos médicos e odontológicos com atendimento personalizado e entrega rápida"
+  content : "Produtos médicos e odontológicos para o seu consultório, clínica de estética ou salão de beleza, com o melhor atendimento e entrega rápida"
   image : ""
   button:
     enable : true
