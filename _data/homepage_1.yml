@@ -24,7 +24,7 @@ services:
   icon : "ti-palette"
   content : "Grande variedade de produtos para higienização e manutenção do seu espaço"
   
-  - title : "Endodontia e Ortodontia"
+- title : "Endodontia e Ortodontia"
   icon : "ti-palette"
   content : "Tudo para o seu consultório, desde produtos de dentística, endodontia, ortodontia e paramentação cirúrgica"
 
