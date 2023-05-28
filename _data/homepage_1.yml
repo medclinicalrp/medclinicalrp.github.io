@@ -13,7 +13,7 @@ hero_area:
 ########################### Service ##############################
 services:
 - title : "Estética"
-  icon : "fa-pencil"
+  icon : "ti-announcement"
   content : "Produtos para a sua clínica de estética e salão de beleza, de esterilização a equipamentos para procedimentos"
 
 - title : "Descartáveis"
