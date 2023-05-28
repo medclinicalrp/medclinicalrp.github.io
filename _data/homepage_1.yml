@@ -13,7 +13,7 @@ hero_area:
 ########################### Service ##############################
 services:
 - title : "Estética"
-  icon : "<i class="fa fa-user-md" aria-hidden="true"></i"
+  icon : "<i style='font-size:24px' class='fas'>&#xf5c9;</i>"
   content : "Produtos para a sua clínica de estética e salão de beleza, de esterilização a equipamentos para procedimentos"
 
 - title : "Descartáveis e Limpeza"
