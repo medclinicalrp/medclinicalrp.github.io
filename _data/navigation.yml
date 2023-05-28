@@ -1,17 +1,5 @@
 #Please use the main menu items under the "name"
 main:
-  - name: Home
-    url: /
-    submenu:
-      - name: Home
-        url: /index.html
-  - name: About
-    url: "#"
-    submenu:
-      - name: About
-        url: /about.html
-      - name: About Me
-        url: /about-me.html
   - name: Produtos Médicos
     url: /
     submenu:
@@ -26,13 +14,15 @@ main:
   - name: Produtos Odontológicos
     url: /
     submenu:
-      - name: Services
+      - name: Cirurgia
+        url: /services.html    
+      - name: Dentística e estética
         url: /services.html
-      - name: Portfolio One
+      - name: Endodontia
         url: /portfolio-1.html
-      - name: Portfolio Two
+      - name: Ortodontia
         url: /portfolio-2.html
-      - name: 404
+      - name: Implantologia e prótese
         url: /404 
   - name: Beleza e Estética
     url: /
@@ -56,7 +46,7 @@ main:
         url: /portfolio-2.html
       - name: 404
         url: /404         
-  - name: Contact
+  - name: Contato
     url: /contact.html
 
 ########## footer menu ###############
