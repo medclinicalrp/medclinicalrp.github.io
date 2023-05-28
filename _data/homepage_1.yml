@@ -3,7 +3,7 @@ hero_area:
   background_image : "/assets/images/banner/banner-2.png"
   subtitle: "MEDCLINICAL"
   title : "Olá, somos a medclinical"
-  content : "Produtos médicos e odontológicos com entrega rápida"
+  content : "Produtos médicos e odontológicos com atendimento especial e entrega rápida"
   image : ""
   button:
     enable : true
