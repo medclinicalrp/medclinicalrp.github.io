@@ -7,7 +7,7 @@ address: "Av. do Café, 1388 - Vila Tibério, Ribeirão Preto - SP"
 author: medclinicalrp
 description: >- # this means to ignore newlines
   Produtos médicos e odontológicos para o seu consultório, clínica de estática ou salão de beleza, com o melhor atendimento e entrega rápida
-logo: "/assets/images/medclinical-a.png"
+logo: "/assets/images/medclinical-logo-a.png"
 logo_icon: "/assets/images/medclinical-b.png"
 # contact form action
 contact_form_action: "#" # works with https://fomrspree.io
