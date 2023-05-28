@@ -12,13 +12,9 @@ hero_area:
 
 ########################### Service ##############################
 services:
-- title : "Materiais Odontológicos"
+- title : "Materiais Odontológicos e Médico-hospitalares"
   icon : 
   content : "Tudo para o seu consultório, desde produtos de dentística, endodontia, ortodontia e paramentação cirúrgica"
-  
-- title : "Materiais Médico-hospitalares"
-  icon : 
-  content : "Produtos para a sua clínica de estética e salão de beleza, de esterilização a equipamentos para procedimentos"  
   
 - title : "Beleza e Estética"
   icon : 
