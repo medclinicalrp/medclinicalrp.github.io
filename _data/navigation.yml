@@ -1,5 +1,7 @@
 #Please use the main menu items under the "name"
 main:
+  - name: Home
+    url: /
   - name: Produtos Médicos
     url: /
     submenu:
